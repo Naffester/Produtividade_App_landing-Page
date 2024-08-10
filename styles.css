@@ -1,0 +1,14 @@
+.carousel-caption {
+    background: rgba(0,0,0,0.5);
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.carousel-caption h5 {
+    font-size: 1.5;
+    font-weight: bold;
+}
+
+.carousel-caption p {
+    font-size: 1,25;
+}
